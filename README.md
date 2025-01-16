@@ -74,5 +74,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Anshalll/PushkarSingh20/output/snake.svg" alt="Snake animation" />
+<img src="https://freesvg.org/img/computers.png" alt="Snake animation" />
 
