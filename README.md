@@ -73,3 +73,6 @@
 <img align="right" src="https://profile-counter.glitch.me/Anshalll/count.svg?"  />
 
 ###
+
+<img src="https://raw.githubusercontent.com/Anshalll/PushkarSingh20/output/snake.svg" alt="Snake animation" />
+
