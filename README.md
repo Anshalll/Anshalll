@@ -70,9 +70,6 @@
 
 ###
 
-<img align="right" src="https://profile-counter.glitch.me/Anshalll/count.svg?"  />
+<img align="left" src="https://profile-counter.glitch.me/Anshalll/count.svg?"  />
 
 ###
-
-<img src="https://freesvg.org/img/computers.png" alt="Snake animation" />
-
